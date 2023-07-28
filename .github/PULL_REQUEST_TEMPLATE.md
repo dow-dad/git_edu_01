@@ -1,8 +1,8 @@
-# what type if PR is this
+# What type of PR is this?
 
--[] new features
+-[] New features
 -[] Bug Fix
--[] suggeest
+-[] Suggeest
 -[] ETC(plz write somthings here..)
 -[] :>
 
