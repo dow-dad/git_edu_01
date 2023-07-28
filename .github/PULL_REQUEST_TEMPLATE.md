@@ -1,4 +1,4 @@
-# what tyoe if PR is this
+# what type if PR is this
 
 -[] new features
 -[] Bug Fix
